@@ -1,0 +1,11 @@
+Date,Salesperson,Customer Name,Car Make,Car Model,Car Year,Sale Price,Commission Rate,Commission Earned
+2026-01-01,Alice,John,Toyota,Corolla,2020,20000,0.05,1000
+2026-01-02,Bob,Mary,Honda,Civic,2019,22000,0.04,880
+2026-01-03,Charlie,Steve,Ford,Mustang,2021,35000,0.06,2100
+2026-01-04,David,Anna,BMW,X5,2022,50000,0.07,3500
+2026-01-05,Eve,Tom,Tesla,Model 3,2023,45000,0.05,2250
+2026-01-06,Frank,Lily,Toyota,Camry,2020,28000,0.05,1400
+2026-01-07,Grace,Kevin,Honda,Accord,2021,32000,0.04,1280
+2026-01-08,Hannah,Susan,Ford,Focus,2019,18000,0.06,1080
+2026-01-09,Ian,Robert,BMW,3 Series,2022,42000,0.07,2940
+2026-01-10,Jane,Kate,Tesla,Model Y,2023,60000,0.05,3000
